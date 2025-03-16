@@ -1,0 +1,67 @@
+.image{
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+  }
+  .Baslik{
+    background-color: gainsboro;
+    height: 62px;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 2px;
+  }
+  h4{
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+  }
+  .Search{
+    width: 400px;
+    margin-left: 750px;
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: center;
+  }
+  .button{
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+  }
+  .Altbaslik{
+  float: left;
+  }
+  
+  .Altbaslik1{
+    background-color: #99f2e4;
+    box-sizing: border-box;
+    width: 700px;
+    float: left;
+    height: 80px;
+    text-align: center;
+  }
+  .Altbaslik2{
+    background-color: #b2e3dd;
+    box-sizing: border-box;
+    width: 452px;
+    float: left;
+    height: 80px;
+    text-align: center;
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+  .Altbaslik3{
+    background-color: #72bfb3;
+    box-sizing: border-box;
+    width: 750px;
+    float: left;
+    height: 80px;
+    text-align: center;
+  }
+  .Altbaslik1 a {
+    line-height: 1.5;
+  }
+  #Copy {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 100px;
+}
